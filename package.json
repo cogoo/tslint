@@ -1,0 +1,8 @@
+{
+  "name": "tslint-rules",
+  "version": "1.0.0",
+  "description": "tslint rules",
+  "main": "index.js",
+  "author": "Colin Ogoo",
+  "license": "MIT"
+}
