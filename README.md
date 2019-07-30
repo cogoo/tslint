@@ -5,7 +5,7 @@ Custom TSLint Config
 ### Installing
 
 ```sh
-npm i -D @cogoo/tslint-rules
+npm i -D @c_ogoo/tslint-rules
 ```
 
 ### Usage
@@ -14,7 +14,7 @@ In `tslint.json`:
 
 ```json
 {
-  "extends": "@cogoo/tslint-rules"
+  "extends": "@c_ogoo/tslint-rules"
 }
 ```
 
